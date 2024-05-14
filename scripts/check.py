@@ -191,6 +191,7 @@ flags = [
     'ccx',
     'cgx',
     'classified',
+    'classified_category',
     'emacs',
     'garbage',
     'git',
